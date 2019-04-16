@@ -1,5 +1,5 @@
 view: adult {
-  sql_table_name: PUBLIC.Adult ;;
+  sql_table_name: Adult ;;
 
   dimension: age {
     type: string
